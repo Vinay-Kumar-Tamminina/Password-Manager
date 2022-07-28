@@ -1,0 +1,24 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #9ba9eb;
+}
+.password-manager-container {
+  display: flex;
+  margin: 10px;
+  padding: 10px;
+  flex-direction: column;
+  width: 90%;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: flex-start;
+}
+.passwordManager-logo {
+  height: 80px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
